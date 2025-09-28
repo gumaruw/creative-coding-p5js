@@ -19,7 +19,7 @@ To run the sketches locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/gumaruw/creative-coding-with-p5js-.git
+    git clone https://github.com/gumaruw/creative-coding-p5js.git
 2. Open the HTML files in a web browser, or use a local server:
    ```bash
    python -m http.server
